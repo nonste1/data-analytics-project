@@ -1,2 +1,2 @@
 # data-analytics-project
-Project developed during the Data Analytics course at VIA University College
+DataWareHouse for the IT-DAI1 course developed using Microsoft SQL Server
